@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Barangay Roxas</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!-- Header sect -->
+    <header>
+        <div class="top-bar">
+            <a href="#support">Support</a>
+            <a href="#contact-us">Contact Us</a>
+            <a href="#search">Search</a>
+        </div>
+        <div>
+            <p>Official website of Roxas district</p>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#map">Map</a></li>
+                <li><a href="#hotlines">Emergency Hotlines</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Welcome  -->
+    <section id="welcome">
+        <h1>Welcome to Barangay Roxas</h1>
+        <p>Subtitle or tagline here</p>
+    </section>
+
+    <!-- Abou sect -->
+    <section id="about">
+        <h2>About Our Barangay</h2>
+        <div>
+            <p>Contains history, achievements, and more.</p>
+        </div>
+    </section>
+
+    <!-- Map (api) -->
+    <section id="map">
+        <h2>Having a hard time navigating through Roxas?</h2>
+        <div id="map-container">
+            <!-- Map API Placeholder -->
+            <p>Map here vro</p>
+        </div>
+    </section>
+
+    <!-- Services-->
+    <section id="services">
+        <h2>Our Services</h2>
+        <div>
+            <div class="service">
+                <h3>Health Programs</h3>
+                <p>Details about programs here.</p>
+            </div>
+            <div class="service">
+                <h3>ID Application</h3>
+                <p>Apply for your barangay ID here.</p>
+            </div>
+            <div class="service">
+                <h3>Business Clearance</h3>
+                <p>Apply for business clearance.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- hotlines -->
+    <section id="hotlines">
+        <h2>Emergency Hotlines</h2>
+        <div class="hotlines-container">
+            <div class="hotline">
+                <img src="barangay-logo.png" alt="Barangay Logo">
+                <h3>BARANGAY</h3>
+                <p>Cellphone No.: 09615809316 / 09776527328</p>
+                <p>Landline No.: 83737849 / 87162059</p>
+            </div>
+            <div class="hotline">
+                <img src="meralco-logo.png" alt="Meralco Logo">
+                <h3>MERALCO</h3>
+                <p>16211</p>
+            </div>
+            <div class="hotline">
+                <img src="manila-water-logo.png" alt="Manila Water Logo">
+                <h3>MANILA WATER</h3>
+                <p>1627</p>
+            </div>
+            <div class="hotline">
+                <img src="qc-logo.png" alt="QC Logo">
+                <h3>QC - 122</h3>
+                <p>09478847498</p>
+            </div>
+            <div class="hotline">
+                <img src="red-cross-logo.png" alt="Red Cross Logo">
+                <h3>RED CROSS</h3>
+                <p>143</p>
+            </div>
+            <div class="hotline">
+                <img src="police-logo.png" alt="Police Logo">
+                <h3>POLICE STATION - 10</h3>
+                <p>09985987960 / 09153982021</p>
+            </div>
+            <div class="hotline">
+                <img src="bfp-logo.png" alt="BFP Logo">
+                <h3>BFP PALIGSAHAN</h3>
+                <p>09761854218</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- idkbro -->
+    <footer>
+        <p>&copy; 2024 Barangay Roxas | All rights reserved</p>
+        <div class="footer-links">
+            <a href="#home">Home</a>
+            <a href="#personnel">Personnel</a>
+            <a href="#barangay">Barangay</a>
+            <a href="#map">Map</a>
+            <a href="#services">Services</a>
+        </div>
+        <div class="contact-info">
+            <p>Contact us: (096) 1580-9316</p>
+            <p>Facebook: (091) 3241-9808</p>
+            <p>Trunkline: (621) 8867-1010</p>
+            <p>Fax No.: (632) 9999-9873</p>
+            <p>Email: roxas@roxas.gov.ph</p>
+            <p>Office Hours: 7:00 AM to 6:00 PM, Monday to Friday</p>
+        </div>
+    </footer>
