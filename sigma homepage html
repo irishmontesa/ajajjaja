@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Barangay Roxas</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="styles.css">
 </head>
 
 <body>
@@ -57,14 +57,17 @@
         <h2>Our Services</h2>
         <div>
             <div class="service">
+                <img src="health-programs.png" alt="Barangay Logo">
                 <h3>Health Programs</h3>
                 <p>Details about programs here.</p>
             </div>
             <div class="service">
                 <h3>ID Application</h3>
+                <img src="id-application.png" alt="Barangay Logo">
                 <p>Apply for your barangay ID here.</p>
             </div>
             <div class="service">
+                <img src="business-clearance.png" alt="Barangay Logo">
                 <h3>Business Clearance</h3>
                 <p>Apply for business clearance.</p>
             </div>
