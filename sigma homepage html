@@ -79,23 +79,23 @@
         <h2>Emergency Hotlines</h2>
         <div class="hotlines-grid">
             <div class="hotline">
-                <img src="barangay.png" alt="Barangay Hotline">
+                <img src="barangay-logo.png" alt="Barangay Hotline">
                 <h3>Barangay</h3>
                 <p>Cell: 09615809316 / 09776527328</p>
                 <p>Landline: 83737849 / 87162059</p>
             </div>
             <div class="hotline">
-                <img src="meralco.png" alt="Meralco Hotline">
+                <img src="meralco-logo.png" alt="Meralco Hotline">
                 <h3>Meralco</h3>
                 <p>16211</p>
             </div>
             <div class="hotline">
-                <img src="red-cross.png" alt="Red Cross Hotline">
+                <img src="red-cross-logo.png" alt="Red Cross Hotline">
                 <h3>Red Cross</h3>
                 <p>143</p>
             </div>
             <div class="hotline">
-                <img src="police.png" alt="Police Station Hotline">
+                <img src="police-logo.png" alt="Police Station Hotline">
                 <h3>Police Station</h3>
                 <p>09985987960 / 09153982021</p>
             </div>
