@@ -22,10 +22,11 @@
         </div>
         <nav>
             <ul>
-                <li><a href="#about">About</a></li>
-                <li><a href="#services">Services</a></li>
-                <li><a href="#map">Map</a></li>
-                <li><a href="#hotlines">Emergency Hotlines</a></li>
+                <li><a href="brngy.html">Home</a></li>
+                <li><a href="aboutpage.html">About</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="map.html">Map</a></li>
+                <li><a href="hotlines.html">Emergency Hotlines</a></li>
             </ul>
         </nav>
     </header>
@@ -36,12 +37,6 @@
         <p>Empowering the community, one step at a time.</p>
     </section>
 
-    <!-- About Section -->
-    <section id="about">
-        <h2>About Our Barangay</h2>
-        <p>Barangay Roxas is committed to providing exceptional services to its community members, ensuring a safe and
-            vibrant environment for all.</p>
-    </section>
 
     <!-- Map Section -->
     <section id="map">
@@ -79,23 +74,23 @@
         <h2>Emergency Hotlines</h2>
         <div class="hotlines-grid">
             <div class="hotline">
-                <img src="barangay-logo.png" alt="Barangay Hotline">
+                <img src="barangay.png" alt="Barangay Hotline">
                 <h3>Barangay</h3>
                 <p>Cell: 09615809316 / 09776527328</p>
                 <p>Landline: 83737849 / 87162059</p>
             </div>
             <div class="hotline">
-                <img src="meralco-logo.png" alt="Meralco Hotline">
+                <img src="meralco.png" alt="Meralco Hotline">
                 <h3>Meralco</h3>
                 <p>16211</p>
             </div>
             <div class="hotline">
-                <img src="red-cross-logo.png" alt="Red Cross Hotline">
+                <img src="red-cross.png" alt="Red Cross Hotline">
                 <h3>Red Cross</h3>
                 <p>143</p>
             </div>
             <div class="hotline">
-                <img src="police-logo.png" alt="Police Station Hotline">
+                <img src="police.png" alt="Police Station Hotline">
                 <h3>Police Station</h3>
                 <p>09985987960 / 09153982021</p>
             </div>
