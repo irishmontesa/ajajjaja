@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Barangay Roxas</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file -->
+</head>
+
+<body>
+
+    <header>
+        <div class="top-bar">
+            <a href="#support">Support</a>
+            <a href="#contact-us">Contact Us</a>
+            <a href="#search">Search</a>
+        </div>
+        <div>
+            <p>Official website of Barangay Roxas</p>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="brngy.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="map.html">Map</a></li>
+                <li><a href="hotlines.html">Emergency Hotlines</a></li>
+            </ul>
+        </nav>
+    </header>
+
+
+    <section id="about">
+        <h1>About Barangay Roxas</h1>
+        <div>
+            <h2>History</h2>
+            <p>
+                Barangay Roxas is one of the most significant and well-known barangays in the city. Its historical
+                development dates back to when it was established as a residential area surrounded by thriving business
+                hubs.
+            </p>
+            <p>
+                The barangay is named after Manuel A. Roxas, the fifth President of the Philippines and a notable leader
+                in the country's political history. It has grown into a dynamic community that houses various
+                institutions, public services, and cultural landmarks.
+            </p>
+            <p>
+                Over the years, Barangay Roxas has remained steadfast in its commitment to fostering a safe, clean, and
+                progressive environment for its residents. Its programs focus on improving public welfare, supporting
+                education, and promoting local economic activities.
+            </p>
+        </div>
+        <div>
+            <h2>Mission</h2>
+            <p>
+                To provide inclusive and sustainable development, Barangay Roxas emphasizes community-based programs
+                that focus on health, education, and livelihood opportunities for its residents.
+            </p>
+        </div>
+        <div>
+            <h2>Vision</h2>
+            <p>
+                A model barangay where every resident thrives in a safe, healthy, and well-organized community,
+                upholding the values of unity, transparency, and progress.
+            </p>
+        </div>
+    </section>
+
+
+    <footer>
+        <p>&copy; 2024 Barangay Roxas | All rights reserved</p>
+        <div class="footer-links">
+            <a href="brngy.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="services.html">Services</a>
+            <a href="map.html">Map</a>
+            <a href="hotlines.html">Hotlines</a>
+        </div>
+        <div class="contact-info">
+            <p>Contact us: roxas@barangayroxas.ph</p>
+            <p>Trunkline: (632) 123-4567</p>
+        </div>
+    </footer>
+</body>
+
+</html>
